@@ -8,7 +8,7 @@ A guide to available tools, components, patterns, and platforms for developing a
 
 Lays out guidelines and expectations for the Ethereum Foundation Python development team.   
 
-## [Go ethereum dev guide](https://github.com/ethereum/go-ethereum/wiki/Developers'-Guide)   
+## [Go ethereum dev guide](https://github.com/ethereum/go-ethereum/wiki/Developers-Guide)   
 
 This document is the entry point for developers of the Go implementation of Ethereum.   
 

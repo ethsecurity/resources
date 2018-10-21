@@ -9,7 +9,7 @@ Presentations
 
 ## Smart Contract and Dapp Security - ETHDenver   
 
-[Click here for the slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)   
+[Click here for the slides](https://docs.google.com/presentation/d/1n7PAqdIedfeIGF-4-TELJZjz-_XOrFPU3gABvjcGmrk/edit?usp=sharing)   
 
 {% embed url="https://www.youtube.com/watch?v=3oWqQll1KIY" %}   
 

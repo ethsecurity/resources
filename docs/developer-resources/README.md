@@ -1,7 +1,7 @@
 Developer Resources
 =========================   
 
-* [Consensys dev tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) -
+## [Consensys dev tools list](https://github.com/ConsenSys/ethereum-developer-tools-list) -
 A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.   
 
 ## [Piper's dev tactical manual for python projects](https://github.com/pipermerriam/ethereum-dev-tactical-manual)   

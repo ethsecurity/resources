@@ -1,7 +1,7 @@
 Welcome to ETHSecurity!
 =========================   
 
-Signaling best practices for Ethereum security.   
+ETHSecurity facilitates an open and collaborative community to signal and educate others on best practices for Ethereum Security.  
 
 # Contributing   
 

@@ -1,11 +1,11 @@
 Presentations
 =========================   
 
-## Introduction to Ethereum - Alex Fisher   
+## Learnings from the ETHSecurity Community - Kevin Seagraves   
 
-[Click here for the slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)   
+[Click here for the slides](https://docs.google.com/presentation/d/1mbVHeu5V_ptQ9v7yqlqjd7sRfWyBs5izdo6wBQf33bg/edit?usp=sharing)   
 
-{% embed url="https://youtu.be/7WyIms8YDVo" %}   
+{% embed url="https://www.youtube.com/watch?v=k3HSk35Irtw" %}   
 
 ## Smart Contract and Dapp Security - ETHDenver   
 
@@ -18,6 +18,12 @@ Presentations
 [Click here for the slides](https://drive.google.com/file/d/0B69CiKIMgsyeSkdXc1ZuSFE2YWYwamhRc2ZBRjB3ZkladVRN/view?usp=sharing)   
 
 {% embed url="https://www.youtube.com/watch?v=qGYki6KYTs8" %}   
+
+## Introduction to Ethereum - Alex Fisher   
+
+[Click here for the slides](https://docs.google.com/presentation/d/1t9IhJx-FsYv6iCRTUL9tB1oPIX3QmYWtznWuN5-D4dU)   
+
+{% embed url="https://youtu.be/7WyIms8YDVo" %}   
 
 ## Cryptoeconomic Protocols - Vitalik   
 

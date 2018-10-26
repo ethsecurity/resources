@@ -9,6 +9,8 @@ Audits and Security Information
 
 * [Not So Smart Contracts: Examples of Solidity security issues](https://github.com/trailofbits/not-so-smart-contracts) - Examples of common Ethereum smart contract vulnerabilities, including code from real smart contracts.   
 
+* [SecurEth Guidelines](https://guidelines.secureth.org) - These guidelines are meant to help guide and inform you through your development process and ensure the highest quality results in your smart contract system and your end product.   
+
 ##Public audit reports
 
 * [List 1](https://docs.google.com/spreadsheets/d/1UDni6Dy_xE7MD5pcTptk7mGlgyarueLQYHZisofz4AM/edit?usp=sharing)   

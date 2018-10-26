@@ -1,5 +1,7 @@
 Developer Resources
 =========================   
+## [Consensys Smart Contract Best practices](https://consensys.github.io/smart-contract-best-practices/)
+A community-maintained guide to smart contract security best practices.
 
 ## [Consensys dev tools list](https://github.com/ConsenSys/ethereum-developer-tools-list)   
 A guide to available tools, components, patterns, and platforms for developing applications on Ethereum.   

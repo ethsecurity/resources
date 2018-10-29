@@ -19,6 +19,10 @@ Quantstamp is a Y Combinator backed security company with a mission to secure an
 
 The Smart Contract Security Alliance’s core mission is to support healthy growth and adoption of blockchain applications. As part of that, we are working with other members of the industry to develop accepted standards for creating and evaluating the security of smart contracts.
 
+## [Security Innovation](https://www.securityinnovation.com/)
+
+For over 15 years Security Innovation has offered a unique software security expertise with the goal of helping developers build a more robust connected world.  We specialize in security assessment, education, and are the authors of several immersive learning environments including the Security Innovation Blockchain CTF.   
+
 ## [SolidStamp](https://www.solidstamp.com/)   
 
 SolidStamp connects smart contract users and security auditors to ensure the safety of their Ether and tokens. We maintain an on-chain database of smart contract audits so you can be sure you are investing your funds securely. SolidStamp allows you to hire top-notch security specialists to audit the contract you plan to use to validate their authenticity and security.    

@@ -1,6 +1,12 @@
 Presentations
 =========================   
 
+## Reversing Ethereum Smart Contracts to find out what's behind EVM bytecode - Patrick Ventuzelo
+
+[Click here for the slides](https://patrickventuzelo.com/wp-content/uploads/2018/11/devcon4_reversing_ethereum_smart_contract_full.pdf)   
+
+{% embed url="https://www.youtube.com/watch?v=IEvRRszoTeE" %}   
+
 ## Learnings from the ETHSecurity Community - Kevin Seagraves   
 
 [Click here for the slides](https://docs.google.com/presentation/d/1mbVHeu5V_ptQ9v7yqlqjd7sRfWyBs5izdo6wBQf33bg/edit?usp=sharing)   

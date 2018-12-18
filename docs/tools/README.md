@@ -25,6 +25,10 @@ Manticore is a symbolic execution tool for analysis of binaries and smart contra
 
 Mythril Classic is an open-source security analysis tool for Ethereum smart contracts.   
 
+## [Octopus](https://github.com/quoscient/octopus)   
+
+Security Analysis tool for WebAssembly module and Blockchain Smart Contracts.
+
 ## [Oyente](https://github.com/melonproject/oyente)   
 
 An Analysis Tool for Smart Contracts.

@@ -19,6 +19,10 @@ Quantstamp is a Y Combinator backed security company with a mission to secure an
 
 For over 15 years Security Innovation has offered a unique software security expertise with the goal of helping developers build a more robust connected world.  We specialize in security assessment, education, and are the authors of several immersive learning environments including the Security Innovation Blockchain CTF.   
 
+## [Sigma Prime](https://sigmaprime.io/)
+
+Sigma Prime (SigP for short) is an information security consultancy, specialised in Blockchain technology, with a strong focus on Ethereum. SigP is composed of developers, researchers and security engineers who have come together with the purpose of building a secure and decentralised world.
+
 ## [Smart Contract Security Alliance](https://www.smartcontractsecurityalliance.com/)   
 
 The Smart Contract Security Alliance’s core mission is to support healthy growth and adoption of blockchain applications. As part of that, we are working with other members of the industry to develop accepted standards for creating and evaluating the security of smart contracts.

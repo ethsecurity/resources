@@ -4,6 +4,7 @@ Blogs and Articles
 # Blogs   
 
 * [Trail of Bits Blog](https://blog.trailofbits.com/)   
+* [Sigma Prime Blog](https://blog.sigmaprime.io)
 
 # Articles   
 
@@ -35,3 +36,7 @@ Smart contracts are the heart of the Ethereum blockchain. Every dApp we engage w
 ## [How contract migration works](https://blog.trailofbits.com/2018/10/29/how-contract-migration-works/)
 
 Smart contracts can be compromised: they can have bugs, the owner’s wallet can be stolen, or they can be trapped due to an incorrect setting. If you develop a smart contract for your business, you must be prepared to react to events such as these. In many cases, the only available solution is to deploy a new instance of the contract and migrate your data to it.   
+
+## [Comprehensive list of known attack vectors and common anti-patterns](https://blog.sigmaprime.io/solidity-security.html)
+
+Although in its infancy, Solidity has had widespread adoption and is used to compile the byte-code in many Ethereum smart contracts we see today. There have been a number of harsh lessons learnt by developers and users alike in discovering the nuances of the language and the EVM. This post aims to be a relatively in-depth and up-to-date introductory post detailing the past mistakes that have been made by Solidity developers in an effort to prevent future devs from repeating history.

@@ -5,6 +5,7 @@ Blogs and Articles
 
 * [Trail of Bits Blog](https://blog.trailofbits.com/)   
 * [Sigma Prime Blog](https://blog.sigmaprime.io)
+* [SmartDec Blog](https://blog.smartdec.net/)
 
 # Articles   
 

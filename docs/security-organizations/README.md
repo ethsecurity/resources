@@ -27,6 +27,10 @@ Sigma Prime (SigP for short) is an information security consultancy, specialised
 
 The Smart Contract Security Alliance’s core mission is to support healthy growth and adoption of blockchain applications. As part of that, we are working with other members of the industry to develop accepted standards for creating and evaluating the security of smart contracts.
 
+## [SmartDec](https://smartdec.net/)
+
+SmartDec is a cybersecurity company providing whole range of blockchain related services, including smart contract security auditing.
+
 ## [SolidStamp](https://www.solidstamp.com/)   
 
 SolidStamp connects smart contract users and security auditors to ensure the safety of their Ether and tokens. We maintain an on-chain database of smart contract audits so you can be sure you are investing your funds securely. SolidStamp allows you to hire top-notch security specialists to audit the contract you plan to use to validate their authenticity and security.    

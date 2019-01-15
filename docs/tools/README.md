@@ -41,6 +41,10 @@ Rattle is an EVM binary static analysis framework designed to work on deployed s
 
 Online and open source analysis tool for Ethereum smart contracts which checks for violations of security patterns.
 
+## [SmartCheck](https://tool.smartdec.net/)
+
+A linter for Solidity and Vyper that checks code for security issues and bad practices.
+
 ## [Surya](https://github.com/ConsenSys/surya)
 
 A set of utilities for exploring Solidity contracts. Allows the creation of inheritance and control flow graphs, structured AST output and markdown reports listing functions and their modifiers and visibility. 

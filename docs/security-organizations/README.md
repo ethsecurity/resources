@@ -31,6 +31,10 @@ The Smart Contract Security Alliance’s core mission is to support healthy grow
 
 SmartDec is a cybersecurity company providing whole range of blockchain related services, including smart contract security auditing.
 
+## [Solidified](https://solidified.io/)   
+
+Solidified is a community driven auditing service, with 200+ Solidity members on board, where you can set up a bug bounty for your smart contract and/or have multiple independent auditors work on your audit.
+
 ## [SolidStamp](https://www.solidstamp.com/)   
 
 SolidStamp connects smart contract users and security auditors to ensure the safety of their Ether and tokens. We maintain an on-chain database of smart contract audits so you can be sure you are investing your funds securely. SolidStamp allows you to hire top-notch security specialists to audit the contract you plan to use to validate their authenticity and security.    
